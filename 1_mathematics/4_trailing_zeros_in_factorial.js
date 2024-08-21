@@ -1,3 +1,4 @@
+// find trailing zero in the factorial of n
 let num = 20
 let f = 1;
 if (num != 0) {
